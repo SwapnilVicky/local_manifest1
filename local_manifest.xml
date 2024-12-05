@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-<remote  name="BlissRoms-Devices" fetch="BlissRoms-Devices" />
 <remote  name="s" fetch="https://github.com/SwapnilVicky" />
 <remote  name="sampatti" fetch="https://github.com/SampattiOS" />
 
